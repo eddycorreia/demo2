@@ -1,0 +1,3 @@
+[submodule "dtmoney"]
+	path = dtmoney
+	url = git@github.com:eddycorreia/dtmoney.git
